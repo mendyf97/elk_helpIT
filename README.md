@@ -1,6 +1,7 @@
 # elk_helpIT
 
-Mendbre:
+- Membre:
+
 	- Mendy FREDERIC
 	- Charvenson GUILLAUME
 	- Teva ROSMADE
