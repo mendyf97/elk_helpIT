@@ -3,5 +3,3 @@
 - Membre:
 
 	- Mendy FREDERIC
-	
-	TEST TEST TEST	
