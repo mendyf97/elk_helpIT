@@ -3,3 +3,5 @@
 - Membre:
 
 	- Mendy FREDERIC
+	
+	- Teva ROSMADE
