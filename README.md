@@ -3,4 +3,4 @@
 - Membre:
 
 	- Mendy FREDERIC
-	- Brent Jason DIMAILIG
+	
