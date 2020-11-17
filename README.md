@@ -4,4 +4,4 @@
 
 	- Mendy FREDERIC
 	
-	- Teva ROSMADE
+	- Téva ROSMADE
